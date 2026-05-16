@@ -1,16 +1,71 @@
-## Hi there 👋
+Hi there, I'm Om Verma 👋
 
-<!--
-**omverma09/omverma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 4th Year Engineering Student passionate about software development
+💻 Skilled in Full Stack Development using MERN Stack
+🌱 Currently learning advanced backend development and scalable applications
+🔥 Love building real-world projects that solve practical problems
+🎯 Focused on improving DSA, development skills, and open-source contributions
+⚡ Interested in Web Development, APIs, and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+👨‍💻 Languages
+C
+JavaScript
+Java
+
+🎨 Frontend Development
+React.js
+HTML5
+CSS3
+Bootstrap
+Material UI
+
+⚙️ Backend Development
+Node.js
+Express.js
+🗄️ Database
+MongoDB
+MySQL
+
+🛠️ Tools & Platforms
+Git & GitHub
+Postman
+VS Code
+Docker (Basics)
+
+🌟 Featured Projects
+🚗 JobSphere
+
+A modern job portal platform where users can explore jobs, apply online, and manage applications efficiently.
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB
+
+Features: Authentication, Job Listings, Dashboard, Responsive UI
+
+💬 Clarify
+
+A community-based platform where users can post personal or study-related problems and others can provide solutions.
+
+Tech Stack: MERN Stack
+
+Features: User Authentication, Posting System, Community Interaction
+
+🤝 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/omverma09/
+📧 Email: omverma96444@gmail.com
+🌐 Portfolio: https://myportfolio-theta-two-66.vercel.app/
+
+💬 Ask Me About
+MERN Stack Development
+REST APIs
+React.js
+Node.js & Express
+MongoDB
+DSA & Problem Solving
+📈 Contribution Graph
+
+⭐ Thanks for visiting my profile!
+🚀 Let's build something amazing together.
