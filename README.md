@@ -11,7 +11,7 @@ Hi there, I'm Om Verma 👋
 ⚡ Interested in Web Development, APIs, and System Design
 
 🛠️ Tech Stack
-👨‍💻 Languages
+Languages
 C
 JavaScript
 Java
