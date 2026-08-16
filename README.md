@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 4th Year Engineering Student passionate about software development
+- 🎓 Engineering Student passionate about software development
 - 💻 Skilled in Full Stack Development using MERN Stack
 - 🌱 Currently learning advanced backend development and scalable applications
 - 🔥 Love building real-world projects that solve practical problems
